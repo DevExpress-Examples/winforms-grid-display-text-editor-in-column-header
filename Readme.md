@@ -3,18 +3,13 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E1966)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-<!-- default file list -->
-*Files to look at*:
+
+# Winforms Data Grid - Display the TextEdit within a column header to allow users to rename the column
+
+This example demonstrates how to handle a double click on a column header and display a text editor to allow the user to rename the column.
+
+
+## Files to Review
 
 * [Form1.cs](./CS/WindowsApplication1/Form1.cs)
 * [MyGridColumnRenameHelper.cs](./CS/WindowsApplication1/MyGridColumnRenameHelper.cs)
-* [Program.cs](./CS/WindowsApplication1/Program.cs)
-<!-- default file list end -->
-# How to show the TextEdit within a column's header to allow end-users to change the column's caption
-
-
-<p>This example demonstrates how to catch a double click on a column's header, and show a text editor which allows an end-user to rename the column.</p>
-
-<br/>
-
-
