@@ -15,7 +15,7 @@ This example demonstrates how to handle a double click on a column header and di
 * [Form1.cs](./CS/WindowsApplication1/Form1.cs)
 * [MyGridColumnRenameHelper.cs](./CS/WindowsApplication1/MyGridColumnRenameHelper.cs)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-grid-display-text-editor-in-column-header&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-grid-display-text-editor-in-column-header&~~~was_helpful=no)
 
